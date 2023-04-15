@@ -461,6 +461,7 @@ body[data-aos-delay="200"] [data-aos].aos-animate {
     min-height: 100%;
     width: 100%;
     transition: all 0.8s ease-in-out;
+    z-index: 2;
   }
   .show_nav {
     position: fixed;
@@ -470,6 +471,7 @@ body[data-aos-delay="200"] [data-aos].aos-animate {
     min-height: 100%;
     width: 100%;
     transition: all 0.8s ease-in-out;
+    z-index: 2;
   }
   .d_lg_block {
     display: block;

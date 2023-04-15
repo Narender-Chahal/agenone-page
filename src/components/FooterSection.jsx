@@ -21,8 +21,8 @@ function FooterSection() {
       <button
         className={
           first
-            ? "position-fixed end-0 bottom-0 border-0 rounded-5 m-4 up_animation"
-            : "position-fixed end-0 bottom-0 d-none"
+            ? "position-fixed end-0 bottom-0 border-0 rounded-5 m-4 up_animation z_index1"
+            : "position-fixed end-0 bottom-0 d-none z_index1"
         }
         onClick={movetop}
       >

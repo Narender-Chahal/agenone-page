@@ -118,7 +118,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img1} alt="card_img1" />
+                  <img className="w-xl_100 w-100" src={card_img1} alt="card_img1" />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -150,7 +150,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img2} alt="card_img2  " />
+                  <img className="w-xl_100 w-100" src={card_img2} alt="card_img2  " />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -184,7 +184,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img2} alt="card_img2  " />
+                  <img className="w-xl_100 w-100" src={card_img2} alt="card_img2  " />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -216,7 +216,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img1} alt="card_img1" />
+                  <img className="w-xl_100 w-100" src={card_img1} alt="card_img1" />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -244,7 +244,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img1} alt="card_img1" />
+                  <img className="w-xl_100 w-100" src={card_img1} alt="card_img1" />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -270,7 +270,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img2} alt="card_img2  " />
+                  <img className="w-xl_100 w-100" src={card_img2} alt="card_img2  " />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -298,7 +298,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img2} alt="card_img2  " />
+                  <img className="w-xl_100 w-100" src={card_img2} alt="card_img2  " />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
@@ -324,7 +324,7 @@ function OurProjectSection(props) {
               <div>
                 <div className="position-relative">
                   {" "}
-                  <img className="w-xl_100" src={card_img1} alt="card_img1" />
+                  <img className="w-xl_100 w-100" src={card_img1} alt="card_img1" />
                   <div className="overlay_box d-flex align-items-center justify-content-center">
                     <div>
                       <img
