@@ -18,7 +18,7 @@ function SlackSection() {
             sm={4}
             xs={6}
             className="pt-5 pt-lg-4 mt-2 mt-lg-0 justify-content-center d-flex"
-            data-aos="flip-down"
+            data-aos="fade-down"
             data-aos-duration="4000"
           >
             <img className="w_100_xsm" src={slack1} alt="slack1" />
@@ -29,7 +29,7 @@ function SlackSection() {
             sm={4}
             xs={6}
             className="pt-5 pt-lg-4 mt-2 mt-lg-0 justify-content-center d-flex"
-            data-aos="flip-up"
+            data-aos="fade-up"
           >
             <img className="w_100_xsm" src={slack2} alt="slack2" />
           </Col>
@@ -39,8 +39,7 @@ function SlackSection() {
             sm={4}
             xs={6}
             className="pt-5 pt-lg-4 mt-2 mt-lg-0 justify-content-center d-flex"
-            data-aos="flip-down"
-            data-aos-duration="10000"
+            data-aos="fade-down"
           >
             <img className="w_100_xsm" src={slack3} alt="slack3" />
           </Col>
@@ -50,8 +49,7 @@ function SlackSection() {
             sm={4}
             xs={6}
             className="pt-5 pt-lg-4 mt-2 mt-lg-0 justify-content-center d-flex"
-            data-aos="flip-down"
-            data-aos-duration="10000"
+            data-aos="fade-up"
           >
             <img className="w_100_xsm" src={slack4} alt="slack4" />
           </Col>
@@ -61,8 +59,7 @@ function SlackSection() {
             sm={4}
             xs={6}
             className="pt-5 pt-lg-4 mt-2 mt-lg-0 justify-content-center d-flex"
-            data-aos="flip-down"
-            data-aos-duration="10000"
+            data-aos="fade-down"
           >
             <img className="w_100_xsm" src={slack5} alt="slack5" />
           </Col>
@@ -72,8 +69,7 @@ function SlackSection() {
             sm={4}
             xs={6}
             className="pt-5 pt-lg-4 mt-2 mt-lg-0 justify-content-center d-flex"
-            data-aos="flip-down"
-            data-aos-duration="10000"
+            data-aos="fade-up"
           >
             <img className="w_100_xsm" src={slack6} alt="slack6" />
           </Col>

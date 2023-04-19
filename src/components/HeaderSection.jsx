@@ -6,12 +6,15 @@ import special_icon1 from "../assets/img/png/Special Icon.png";
 import special_icon2 from "../assets/img/png/Special Icon2.png";
 import special_icon3 from "../assets/img/png/Special Icon3.png";
 import special_icon4 from "../assets/img/png/Special Icon4.png";
+import { useRef } from "react";
 function HeaderSection() {
+  const first = useRef();
+  console.log(first);
   var settings = {
     dots: true,
     infinite: true,
     speed: 500,
-    arrows: true,
+    arrows: false,
     dots: true,
     slidesToShow: 4,
     slidesToScroll: 1,
@@ -94,7 +97,13 @@ function HeaderSection() {
             business
           </h3>
           <Slider {...settings} className="justify-content-center row">
-            <Col lg={3} md={6} className=" pt-5">
+            <Col
+              lg={3}
+              md={6}
+              className=" pt-5"
+              data-aos="flip-left"
+              data-aos-duration="10000"
+            >
               <img
                 className="width_xsm"
                 src={special_icon1}
@@ -104,7 +113,7 @@ function HeaderSection() {
                 Expanding the Market
               </h4>
             </Col>
-            <Col lg={3} md={6} className="  pt-5">
+            <Col lg={3} md={6} className="  pt-5" data-aos="flip-left">
               <img
                 className="width_xsm"
                 src={special_icon2}
@@ -114,7 +123,7 @@ function HeaderSection() {
                 Cost-Effective
               </h4>
             </Col>
-            <Col lg={3} md={6} className="  pt-5">
+            <Col lg={3} md={6} className="  pt-5" data-aos="flip-up">
               <img
                 className="width_xsm"
                 src={special_icon3}
@@ -124,7 +133,7 @@ function HeaderSection() {
                 More Professional{" "}
               </h4>
             </Col>
-            <Col lg={3} md={6} className=" pt-5">
+            <Col lg={3} md={6} className=" pt-5" data-aos="flip-right">
               <img
                 className="width_xsm"
                 src={special_icon4}

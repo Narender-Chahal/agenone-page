@@ -18,13 +18,14 @@ import { useState } from "react";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Preloder from "./components/Preloder";
 
 function App() {
   useEffect(() => {
     AOS.init({
       once: true,
       duration: 800,
-      delay: 200,
+      delay: 800,
     });
   }, []);
   // const [textValue, setTextValue] = useState([
@@ -62,7 +63,6 @@ function App() {
     <>
       {/* <Learn textValue={textValue} /> */}
       <div className="overflow_x_hidden">
-        {" "}
         <div className="head_bg_img  bg-black min_100vh_xxl d-flex flex-column">
           <div className="flex-grow-1">
             <MyNavbar />
@@ -75,9 +75,9 @@ function App() {
         <SlackSection />
         <CardScroll />
         <div className="bg_foter">
-          {" "}
           <Discuss />
           <FooterSection />
+          <Preloder />
         </div>
       </div>
     </>

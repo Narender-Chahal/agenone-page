@@ -27,7 +27,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Clara Insomnia{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 ff_inter fw-normal fs_sm earth_clr pt-1">
                       Occupation{" "}
                     </p>
                   </div>
@@ -49,7 +49,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       John Doe{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 ff_inter fw-normal fs_sm earth_clr pt-1">
                       Earth Founder
                     </p>
                   </div>
@@ -71,7 +71,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Alan Runner{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 ff_inter fw-normal fs_sm earth_clr pt-1">
                       Sun Founder{" "}
                     </p>
                   </div>
@@ -93,7 +93,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Lil Nas{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Moon Founder{" "}
                     </p>
                   </div>
@@ -111,7 +111,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Clara Insomnia{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Occupation{" "}
                     </p>
                   </div>
@@ -129,7 +129,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       John Doe{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Earth Founder
                     </p>
                   </div>
@@ -147,7 +147,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Alan Runner{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Sun Founder{" "}
                     </p>
                   </div>
@@ -165,7 +165,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Lil Nas{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Moon Founder{" "}
                     </p>
                   </div>
@@ -188,7 +188,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Clara Insomnia{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 ff_inter fw-normal fs_sm earth_clr pt-1">
                       Occupation{" "}
                     </p>
                   </div>
@@ -206,7 +206,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       John Doe{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Earth Founder
                     </p>
                   </div>
@@ -224,7 +224,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Alan Runner{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Sun Founder{" "}
                     </p>
                   </div>
@@ -242,7 +242,7 @@ function CardScroll() {
                     <h4 className="mb-0 ff_inter fw-semibold fs_lg  clr_black1">
                       Lil Nas{" "}
                     </h4>
-                    <p className="mb-0 fw-normal fs_sm earth_clr pt-1">
+                    <p className="mb-0 fw-normal ff_inter fs_sm earth_clr pt-1">
                       Moon Founder{" "}
                     </p>
                   </div>

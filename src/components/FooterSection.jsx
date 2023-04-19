@@ -17,7 +17,7 @@ function FooterSection() {
     }
   });
   return (
-    <section className="bg_black position-relative pt-5 overflow-hidden" >
+    <section className="bg_black position-relative pt-5 overflow-hidden">
       <button
         className={
           first
